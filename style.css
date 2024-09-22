@@ -87,6 +87,8 @@ li img{
   width: 300px;
   border-radius: 30px;
   border: none;
+  font-size: 20px;
+  font-weight: 500;
 }
 .buttons .left{
   /* background-color: red; */
